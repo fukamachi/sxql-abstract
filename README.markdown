@@ -1,5 +1,8 @@
 # SxQL-Abstract
 
+[![Build Status](https://travis-ci.org/fukamachi/sxql-abstract.svg?branch=master)](https://travis-ci.org/fukamachi/sxql-abstract)
+[![Coverage Status](https://coveralls.io/repos/github/fukamachi/sxql-abstract/badge.svg?branch=master)](https://coveralls.io/github/fukamachi/sxql-abstract?branch=master)
+
 SxQL-Abstract aims to be an abstract layer for SQL between backend RDBMS.
 
 Currently supports only MySQL and PostgreSQL.
