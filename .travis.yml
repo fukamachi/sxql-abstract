@@ -19,4 +19,4 @@ install:
   - ros install fukamachi/prove
 
 script:
-  - run-prove sxql-abstract-test
+  - run-prove sxql-abstract-test.asd
